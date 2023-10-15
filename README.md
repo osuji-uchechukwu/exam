@@ -1,4 +1,4 @@
-# exam php project
+# exam - PHP project
 Database in db folder
 
 create account after setting up database
